@@ -1,0 +1,9 @@
+
+[2018-07-05 13:58:39] Текст ошибки: Нет соединения с БД | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 14
+=================
+[2018-07-05 13:58:57] Текст ошибки: Нет соединения с БД | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 14
+=================
+[2018-07-05 13:59:10] Текст ошибки: На найден вид C:\xampp\htdocs\ishop2.loc/app/views/Page/view.php | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2018-07-05 14:05:20] Текст ошибки: На найден вид C:\xampp\htdocs\ishop2.loc/app/views/Page/view.php | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 38
+=================
